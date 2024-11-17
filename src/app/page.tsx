@@ -1,4 +1,3 @@
-// src/app/page.tsx
 'use client';
 
 import FileUpload from '../app/components/FileUpload/FileUpload';
